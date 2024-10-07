@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(#7c0d32 0%, #57434a 40%, #7e4f5f 80%);
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 100px;
+}
+.profileImage {
+  width: 200px;
+}
+.profile h4 {
+  transform: translateY(-10px);
+}
+.row {
+  display: flex;
+  justify-content: center;
+}
+.col-4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+<style > .my-custom-margin {
+  margin-top: 100px;
+}
+</style > 
